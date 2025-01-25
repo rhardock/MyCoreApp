@@ -13,6 +13,10 @@
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
+# Ignore obj directory and Properties directory
+obj/
+Properties/            
+
 # Mono auto generated files
 mono_crash.*
 
